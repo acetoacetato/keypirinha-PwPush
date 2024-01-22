@@ -33,6 +33,8 @@ The plugin adds one option to the catalog:
 
 This allows to input a text entry or a file path. In case of a file path is detected, you can choose if creating a link to just the text itself or upload the file.
 
+With the option selected, when succeeded, the generated link will be on your clipboard.
+
 **IMPORTANT**
 
 In order to upload a file it is needed to configure a api key. For this, you need to open the configuration file and add your pwpush account's email and api key:
