@@ -5,7 +5,7 @@ This is pwpush, a plugin for the
 
 This package adds the option to create a secure way to share passwords and/or files using the [pwpush Api](https://pwpush.com/api/1.0.en.html).
 
-
+![](https://github.com/acetoacetato/keypirinha-PwPush/blob/V1.0.0/resources/intro.gif)
 
 
 ## Download
