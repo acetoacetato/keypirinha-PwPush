@@ -29,7 +29,7 @@ move it to the `InstalledPackage` folder located at:
 
 The plugin adds one option to the catalog:
 
-   Create Sharing Link (pwpush)
+    Create Sharing Link (pwpush)
 
 This allows to input a text entry or a file path. In case of a file path is detected, you can choose if creating a link to just the text itself or upload the file.
 
@@ -39,9 +39,9 @@ With the option selected, when succeeded, the generated link will be on your cli
 
 In order to upload a file it is needed to configure a api key. For this, you need to open the configuration file and add your pwpush account's email and api key:
 
-   [defaults]
-   api_email=<YOUR PWPUSH ACCOUNT EMAIL>
-   api_key=<YOUR API KEY>
+    [defaults]
+    api_email=<YOUR PWPUSH ACCOUNT EMAIL>
+    api_key=<YOUR API KEY>
 
 If configured, it will be used for both the text and file sharing.
 
